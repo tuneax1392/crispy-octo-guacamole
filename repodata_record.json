@@ -1,0 +1,20 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "packaging >=22.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "pytoolconfig-1.2.6-py312haa95532_0.conda",
+  "license": "LGPL-3.0-or-later",
+  "md5": "58a5f001f7b29e977151654c6828cc48",
+  "name": "pytoolconfig",
+  "sha256": "3b2d2c2ce8cbcf7e79ed870f948538dd68efa72791067b0f4ee9b944859b0f51",
+  "size": 36634,
+  "subdir": "win-64",
+  "timestamp": 1701729011000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pytoolconfig-1.2.6-py312haa95532_0.conda",
+  "version": "1.2.6"
+}
