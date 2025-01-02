@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "packaging >=22.0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "license": "LGPL-3.0-or-later",
+  "license_family": "LGPL",
+  "name": "pytoolconfig",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1701729011175,
+  "version": "1.2.6"
+}
